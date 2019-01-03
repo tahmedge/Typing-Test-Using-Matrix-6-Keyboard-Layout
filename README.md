@@ -1,2 +1,1 @@
-# Experimental-Software
-Experimental software developed for the EECS 4441 Project
+Developed for the EECS 6412 Course Project.
